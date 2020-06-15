@@ -1,0 +1,12 @@
+/*
+
+Snake 3
+
+Excellent. I also added the KeyboardObserver class for the future.
+Examine it carefully. Come in handy.
+Let's start with the simplest - the Mouse class.
+She will not move and she will only have coordinates and that’s it.
+Add two private fields to the Mouse class: x and y of type int.
+
+
+ */
